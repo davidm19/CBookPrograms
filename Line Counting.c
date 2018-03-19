@@ -11,4 +11,6 @@ int main()
 	printf("%d\n", n1);
 	}
 
+	return 0;
+
 }
